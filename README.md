@@ -2,7 +2,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/p9556l9g0gvufshn?svg=true)](https://ci.appveyor.com/project/blackseliger/list-editor)
 
 
-GP :rocket: https://blackseliger.github.io/Popovers/ :rocket:
+GP :rocket: https://blackseliger.github.io/List-Editor/ :rocket:
 
 **Important!**
 
